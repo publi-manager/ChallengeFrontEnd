@@ -30,7 +30,7 @@ Pode-se usar o [layout em figma](https://www.figma.com/file/6wVP58vAlQMPPwugVPX3
 - [ ] (UI) Compor usando um framework de UI para construção do layout (Ex.: Desde Styled-components até um MUI, React Bootstrap, Semantic UI, SyncFusion).
 - [ ] (UX Básico) Filtrar pelo nome do endereço.
 - [ ] (Persistencia) Buscar endereços de algum arquivo fixo (Ex: um arquivo em JSON) ou ainda na localStorage;
-- [ ] (Integração) Buscar endereços de alguma API pública (Ex. Consulta API Google por "Mac Donalds porto alegre") ou busca de CEP via [ViaCEP](https://viacep.com.br/)  
+- [ ] (Integração) Buscar endereços de alguma API pública (Ex. Consulta API Google Search por "Mac Donalds porto alegre") ou busca de CEP via [ViaCEP](https://viacep.com.br/)  
 - [ ] (Encapsulamento) utilizar o axios ou algum outro método que demonstre o conhecimento do conceito
 - [ ] (UX Médio) Paginação com limitação de 10 endereços para cada clique em "carregar mais".
 - [ ] (DOM) Suporte muitos registros via paginação com Virtualização de DOM
