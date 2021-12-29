@@ -10,7 +10,7 @@ Challenge Frontend
 Nosso desafio consiste em ter uma lista de endereços. 
 Nesse webapp deve haver a possibilidade do usuario realizar um CRUD básico (listar, criar, editare apagar) em  endereços;
 
-Não importa a persistencia dos dados. Eles podem ser só criados sob-demanda pelo usuário.
+Persistencia dos dados não é o mais importante (ver Extras). Os endereços podem ser criados somente sob-demanda pelo usuário, por exemplo.
 
 Quando possível componentizar o código, indetificando botões e estruturas que se repetem.
 
