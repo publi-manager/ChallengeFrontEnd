@@ -35,4 +35,4 @@ Pode-se usar o [layout em figma](https://www.figma.com/file/6wVP58vAlQMPPwugVPX3
 - [ ] (UX Médio) Paginação com limitação de 10 endereços para cada clique em "carregar mais".
 - [ ] (DOM) Suporte muitos registros via paginação com Virtualização de DOM
 
-Encaminhar projeto concluido com link de seu repositório (ou PR para este) para rh@publi.com.br com assunto: "Challenge"
+Encaminhar projeto concluido com link de seu repositório para rh@publi.com.br com assunto: "Challenge"
