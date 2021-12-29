@@ -18,7 +18,7 @@ Pode-se usar o [layout em figma](https://www.figma.com/file/6wVP58vAlQMPPwugVPX3
 
 ## Criar uma aplicação React/NextJS
 - [ ] Rodar na web, não importa backend
-- [ ] Utilizar Typescript
+- [ ] Utilizar Typescript com React
 - [ ] Listar Endereços
 - [ ] Criar Endereço
 - [ ] Editar Endereço
@@ -35,4 +35,4 @@ Pode-se usar o [layout em figma](https://www.figma.com/file/6wVP58vAlQMPPwugVPX3
 - [ ] (UX Médio) Paginação com limitação de 10 endereços para cada clique em "carregar mais".
 - [ ] (DOM) Suporte muitos registros via paginação com Virtualização de DOM
 
-Encaminhar projeto concluido com assunto: "Challenge" para: rh@publi.com.br
+Encaminhar projeto concluido com link de seu repositório (ou PR para este) para rh@publi.com.br com assunto: "Challenge"
